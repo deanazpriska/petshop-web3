@@ -1,0 +1,106 @@
+[
+  {
+    "id": 0,
+    "name": "Onyx",
+    "picture": "images/download (2).jpeg",
+    "age": 3,
+    "breed": "Himalaya",
+    "location": "Samarinda"
+  },
+  {
+    "id": 1,
+    "name": "Ash",
+    "picture": "images/download (3).jpeg",
+    "age": 3,
+    "breed": "Maine Coon",
+    "location": "Karawang"
+  },
+  {
+    "id": 2,
+    "name": "Snowy",
+    "picture": "images/anggora.jpeg",
+    "age": 2,
+    "breed": "Anggora",
+    "location": "Surabaya"
+  },
+  {
+    "id": 3,
+    "name": "Choco",
+    "picture": "images/download (5).jpeg",
+    "age": 4,
+    "breed": "Caracal",
+    "location": "Korea"
+  },
+  {
+    "id": 4,
+    "name": "Ciko",
+    "picture": "images/download (6).jpeg",
+    "age": 2,
+    "breed": "Ragdoll",
+    "location": "Jepang"
+  },
+  {
+    "id": 4,
+    "name": "Meowchi",
+    "picture": "images/images.jpeg",
+    "age": 2,
+    "breed": "Munchkin",
+    "location": "Jakarta Selatan"
+  },
+  {
+    "id": 4,
+    "name": "Arlo",
+    "picture": "images/british.jpg",
+    "age": 3,
+    "breed": "British shorthair",
+    "location": "Bali"
+  },
+  {
+    "id": 4,
+    "name": "Mochi",
+    "picture": "images/scottish.jpeg",
+    "age": 2,
+    "breed": "  Scottish Fold",
+    "location": "Balikpapan"
+  },
+  {
+    "id": 4,
+    "name": "Leo",
+    "picture": "images/savannah.jpeg",
+    "age": 2,
+    "breed": "Savannah",
+    "location": "Cikarang"
+  },
+  {
+    "id": 4,
+    "name": "Cinnamon",
+    "picture": "images/american.jpg",
+    "age": 2,
+    "breed": "American Curl",
+    "location": "Amerika"
+  },
+  {
+    "id": 4,
+    "name": "Moka",
+    "picture": "images/devonrex.jpg",
+    "age": 3,
+    "breed": "Devon Rex",
+    "location": "Bandung"
+  },
+  {
+    "id": 4,
+    "name": "Dusty",
+    "picture": "images/egyptian.jpeg",
+    "age": 2,
+    "breed": "Egyptian Mau",
+    "location": "Surakarta"
+  },
+  {
+    "id": 4,
+    "name": "Blitz",
+    "picture": "images/exotic.jpeg",
+    "age": 1,
+    "breed": "Exotic Shorthair",
+    "location": "Depok"
+  }
+]
